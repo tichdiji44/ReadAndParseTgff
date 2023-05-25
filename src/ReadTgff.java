@@ -19,7 +19,6 @@ public class ReadTgff {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(fis));
         String str;
         Map<String, DagGraph> taskGraphMap = new HashMap<>();
-        Map<String, String> taskMap = new HashMap<>();
 
         // 循环读取
         while (true) {

@@ -12,5 +12,5 @@
 
 [https://github.com/dliul/tgff2json](https://github.com/dliul/tgff2json)
 
-上述项目仅考虑TGFF中只有一个任务时的情况，然而在进行批量生成任务时，TGFF中可能有不止一种情况
+上述项目仅考虑TGFF中只有一个任务时的情况，然而在进行批量生成任务时，TGFF中可能有不止一种情况，因此对所参考的项目进行改进，以使项目可以解析多任务情况的TGFF文件。
 
